@@ -2,7 +2,7 @@
     "name": "one-monokai-dimed-contrast",
     "displayName": "One Monokai Dimed Contrast",
     "description": "Monokai Dimed UI and One Dark Syntax",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "higorLoren",
     "engines": {
         "vscode": "^1.33.0"
