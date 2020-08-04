@@ -1,0 +1,37 @@
+{
+    "name": "one-monokai-dimed-contrast",
+    "displayName": "One Monokai Dimed Contrast",
+    "description": "Monokai Dimed UI and One Dark Syntax",
+    "version": "0.0.1",
+    "publisher": "higorLoren",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "keywords": [
+        "higor loren",
+        "Ultimate Constrat",
+        "Ultimate",
+        "Constrast",
+        "dark",
+        "theme",
+        "Monokai",
+        "One Dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Monokai Dimed Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Monokai Dimed Contrast-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HigorLoren/one-monokai-dimed-contrast.git"
+    }
+}
